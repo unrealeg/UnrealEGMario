@@ -1,28 +1,17 @@
-# Super Mario 3D
+### Features
 
 Game Update Version : 1.1.0
-
 Current on master : 1.1.326
-
 Graphics Backend : Vulkan
-
 Both games load and play as they should at a high FPS.
 
-Hardware Specs :
-
+###  Hardware Specs :
 CPU: Ryzen 7 5800X
-
 GPU: NVIDIA RTX 3080 Ti
-
 RAM: 32GB
 
-Screenshots :
+![](https://user-images.githubusercontent.com/62343878/197776321-69b163d5-2534-4163-bf4f-0b547fe0fb8b.png)
 
-## Screenshots
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-[App Screenshot](https://user-images.githubusercontent.com/62343878/197776321-69b163d5-2534-4163-bf4f-0b547fe0fb8b.png)
-
-[App Screenshot](https://user-images.githubusercontent.com/62343878/197776334-ab621561-88be-40ba-aa46-e1e9ad659ef8.png)
-
-[App Screenshot](https://user-images.githubusercontent.com/62343878/197776348-6a465d55-14e3-40c3-b4e9-74900a58c211.png)
 
