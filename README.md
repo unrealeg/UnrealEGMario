@@ -10,8 +10,6 @@ CPU: Ryzen 7 5800X
 GPU: NVIDIA RTX 3080 Ti
 RAM: 32GB
 
-![](https://user-images.githubusercontent.com/62343878/197776321-69b163d5-2534-4163-bf4f-0b547fe0fb8b.png)
-
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
